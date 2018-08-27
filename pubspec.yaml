@@ -1,0 +1,50 @@
+name: testapp
+description: A new Flutter application.
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  connectivity: "^0.3.0"
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^0.1.0
+  carousel: ^0.0.1
+  progress_hud: "^0.2.2"
+  shared_preferences: "^0.4.1"
+  image_picker: "^0.4.1"
+  image: "^1.1.32"
+  path_provider: "^0.4.0"
+  dio: "^0.0.12"
+  share: "^0.4.0"
+  url_launcher: ^0.4.1
+  intl: ^0.15.2
+  date_format: "^1.0.4"
+  flutter_webview_plugin: "^0.1.6"
+  simple_permissions: "^0.1.4"
+  secure_string: ^2.0.0
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+   - assets/banner/jb.jpg
+   - assets/banner/jb2.png
+   - assets/banner/requirement.png
+   - assets/p.png
+   - assets/banner/sliderback.jpg
+   - assets/banner/sliderback2.jpg
+   - assets/logo.png
+   - assets/fav.png
+   - assets/card.png
+   - assets/l.png
+
+
+
+
